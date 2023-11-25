@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Insane-creature
+- 👋 Hi, I’m Anshika Soni
 - 👀 I’m interested in writing different programs 
 - 🌱 I’m currently learning python in more efficient ways
 - 📫 can mail me at anshikasoni357@gmail.com
