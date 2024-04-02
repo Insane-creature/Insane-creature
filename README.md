@@ -1,16 +1,10 @@
-![logo](https://github.com/Insane-creature/Insane-creature/blob/main/Banner.jpg)
-
-<h1 align="center">Hi 👋, I'm Anshika Soni</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="left">Hi 👋, I'm Anshika Soni</h1>
+<h4 align="left">A passionate developer currently working in Rebel Foods.</h4>
 
 - 🔭 I’m currently contributing daily on [Python Intermediate learning](https://github.com/Insane-creature/Projects)
-
 - 🌱 I’m currently learning **Node.js, AWS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/insane-creature](https://github.com/insane-creature)
-
 - 💬 Ask me about **Python**
-
 - 📫 How to reach me **anshikasoni357@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
