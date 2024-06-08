@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Anshika Soni</h1>
 <h4 align="left">A passionate developer currently working in Rebel Foods.</h4>
 
-- 🔭 I’m currently contributing daily on *[React and JavaScript Intermediate learning]*
+- 🔭 I’m currently contributing daily on **React and JavaScript Intermediate learning**
 - 🌱 Just completed Java Full Stack learnings and did projects.
 - 👨‍💻 All of my projects are available at [https://github.com/insane-creature](https://github.com/insane-creature)
 - 💬 Ask me about **JavaScript, Python**
