@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Anshika Soni</h1>
 <h4 align="left">A passionate developer currently working in Rebel Foods.</h4>
 
-- 🔭 I’m currently contributing daily on [Python Intermediate learning](https://github.com/Insane-creature/Projects)
-- 🌱 I’m currently learning **Node.js, AWS**
+- 🔭 I’m currently contributing daily on [React and JavaScript Intermediate learning]
+- 🌱 Just completed Java Full Stack learnings and did projects.
 - 👨‍💻 All of my projects are available at [https://github.com/insane-creature](https://github.com/insane-creature)
-- 💬 Ask me about **Python**
+- 💬 Ask me about **JavaScript, Python**
 - 📫 How to reach me **anshikasoni357@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
