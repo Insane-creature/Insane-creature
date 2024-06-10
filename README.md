@@ -5,7 +5,7 @@
 - 🌱 Just completed Python Advance and Java Full Stack learnings.
 - 👨‍💻 All of my projects are available at [https://github.com/insane-creature](https://github.com/insane-creature)
 - 💬 Ask me about **JavaScript, Python**
-- 📫 How to reach me **anshikasoni357@gmail.com**
+- 📫 How to reach me **anshika.work3@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
