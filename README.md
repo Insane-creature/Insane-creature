@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Anshika Soni</h1>
+<h1 align="left">Hi, I'm Anshika Soni</h1>
 <h4 align="left">A passionate developer currently working in Rebel Foods.</h4>
 
 - 🔭 I’m currently contributing daily on **Java and Python**
