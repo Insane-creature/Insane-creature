@@ -2,7 +2,7 @@
 <h4 align="left">A passionate developer currently working in Rebel Foods.</h4>
 
 - 🔭 I’m currently contributing daily on **Java and Python**
-- 🌱 Just completed Python Advance and am on Java Full Stack learnings.
+- 🌱 Just completed Python Advance and am on Java Full Stack learning.
 - 👨‍💻 All of my projects are available at [https://github.com/insane-creature](https://github.com/insane-creature)
 - 💬 Ask me about **Java, Python**
 - 📫 How to reach me **anshika.work3@gmail.com**
